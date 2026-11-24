@@ -1,0 +1,7 @@
+2026-11-24 09:00:00 INFO application started
+2026-11-24 09:05:00 INFO user login successful
+2026-11-24 09:10:00 WARNING disk usage is high
+2026-11-24 09:15:00 ERROR failed to connect to database
+2026-11-24 09:20:00 INFO user logout successful
+2026-11-24 09:25:00 WARNING memory usage is high
+2026-11-24 09:30:00 INFO application stopped
